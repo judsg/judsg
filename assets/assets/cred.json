@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jsgagent-eti9",
+  "private_key_id": "2283bd5623db68f070d93e850bde6483645d2353",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoxk98dV3XkeV8\nwH9k1EMlhsc+Rw4vPNAbelHL/efSwK68K7NJ/JTbD5NB2QAroWBKyYs2iqqfNfV7\nOKB/GvlDnq8FOUoFdibviNl2IdNbXfON7G4Gd6rs/aPzcgljrP6rsW0Yjq6ru2fa\nN/D2r2bzisswF+X2eI2quIH+Ok0HycHxPQM/9bp0kprSmTRU3wPf2kIUiXQmBAA4\nB6jfUTzQvnXJ4aUWoCn6y9wENBYgsuDwRwqhh6iSfTdcQFXUDHQEEnXYOmltIn1R\nlQGgmz3AuzJy7LqQhvipL6M9ghtCJW3B63/rAHsZ1vhHPEHEIbfLTXGYTApIMeFY\nKTfnRgdxAgMBAAECggEAKeH4pLqdfJsEl6ZPlu6D8UKWnDJW50sQm9kJhnVue6L8\nWc8AcZpgOFKPqRYYUDt+YWDNjs3vlI336sm9Ln27oNe2uDWk1GEjPWs5B/NR94kD\noVMsZKd6v9AbyRSiFt29306q856o4w4hMgqS3izeAA8P6FHt6/GzukuKWtQN/KHi\nKkSiGKxZkA9vnju2kK23yHBQNtcx6NY2KcFlUUgribMZgPYtKW1B105ddIzgA6if\nzO0syNTKPTWQ95hljaZhzqRfOr7ONDL7v6MDv8nULU19bbptADiQnIB7z3dFXQac\nVpJ+6BPq9UgT+pB7PkIfmbG5PsopeB6N8FOMQcmkTwKBgQDWsS5mw7mptWaT4fj3\nXe6Y4+27iunZz5QmlTz3PhEM4/BE9CcmrNR4mmXe9xr3xP+oohN+PDB/nmcQQPVP\n2zxfdcylvqvOzTyhu7Kp+yS6VRvQJNgTgdhNLUoLaCbNVrsYPtgJV0i7SdgH7+cn\nYU/sSDFec52SaLbkMG8FLYbedwKBgQDJP249E17XR1RkOZZJCBeU4CvjOYUlhl+f\nFKzhNBy/7HL4RPs908eQiE5NaLxVZzRTjUxybm35oPx4Cwj0/KWOqhV1kqRx80wi\nXKmNLQl2PEWQQ73EjaFtOGYglwuopQvyV6BR3k7kPcmCtFZfjBQCv9cfkALr2LYm\nT7GAA+07VwKBgAYr+cWCgufaCyTdLicOUDmc88ycZbSZPw0M5T/GTP8t3k5dJnL6\nLPF6nssWF3Rf+WmDn0PVvx8sEpJpC6RMDSRBYqyxGodLZx7PIoe4bInewHnvVTba\nWLl/P82sJNFqWN6Nj/BUzgZ0TP2Na/u51G5adPDeKf13fSp6KfbgJCxpAoGAL1kQ\nG6iCCM5MaaQu2pHf0nQHf1daHyEFQE1B+14iYXlE92prXfmEm1mmaon4vXMhmYLF\n+KpIj5GztJ6MBe+nF/CmSdotfG3MfM0mSwPMlRfLGg0GCcd0slixlntTD+N88xBw\ntLJEB2kODwVUyPgRATCXcWKVfV2oRU08qqzB1NMCgYBsUN4AA1mlGZ7ZcdKngocH\nSaC30BexZ3FcjQ14g+dXlnYYlJ7+C6WH3r9JYs6Z4eUHyVc3tGkglF1GkjwcE4cm\n4alG69U/CiUQBmeLEwpFHMWdTr2pytXLHC0uyT4WPcK/DzWDUFOJz1DfOWH/H3BG\nRfUFco8+tKEzQP3BCMt8rw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jsgsmartoffice@jsgagent-eti9.iam.gserviceaccount.com",
+  "client_id": "100663502305700359527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jsgsmartoffice%40jsgagent-eti9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
